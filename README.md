@@ -152,9 +152,9 @@ npm run dev
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Contributors:
 
-This project is developed by:
+This project is contributed by:
 
 <table width="100%">
   <tr>
@@ -197,42 +197,4 @@ This project is developed by:
     </td>
   </tr>
   <tr>
-    <td><b>Yuval Kogan</b></td>
-    <td>
-      <a href="https://www.linkedin.com/in/yuval-kogan">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" height="24"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/KoganTheDev">
-        <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub" height="24"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Daniel Lachmakov</b></td>
-    <td>
-      <a href="https://www.linkedin.com/in/daniel-lachmakov-94761b288/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" height="24"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Danielon05423">
-        <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub" height="24"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Lior Dagash</b></td>
-    <td>
-      <a href="https://www.linkedin.com/in/lior-dagash-53130333a/">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" height="24"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/iMianite">
-        <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub" height="24"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
